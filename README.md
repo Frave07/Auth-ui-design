@@ -14,5 +14,12 @@ Puedes ver el video en mi canal de Youtube:
 Puedes seguirme en mi pagina de Facebook
 - [FRAVE PROGRAMMER](https://www.facebook.com/fraveProgrammer)
 
-Screenshots
+## Screenshots
+
+<table>
+  <tr>
+    <td>   <img src="https://user-images.githubusercontent.com/76232843/104381313-41f40380-54fa-11eb-90ea-a0ada187e7e5.png" alt="splash" width="200"></td>
+    <td>   <img src="https://user-images.githubusercontent.com/76232843/104381398-664fe000-54fa-11eb-9b88-df7c6a4f9faa.png" alt="splash" width="200"></td>
+  </tr>
+</table>
 
